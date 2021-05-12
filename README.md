@@ -1,4 +1,4 @@
-# Esp8266-Standlone-Zeno-V-1.0
+# Esp8266-Standlone-ZENO-VERSION
 This is a standalone ESP8266 module , You can only power this module via the MICRO USB ,to progra the esp8266 we will require another FTDI programmer. 
 
 
